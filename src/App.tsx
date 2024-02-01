@@ -13,7 +13,8 @@ function App() {
       Hohensachsener Str. 7<br />
       69493 Hirschberg a. d. B.
       </p>
-      <DIVKLogo/>
+      <DIVKLogo width="400"/>
+
     </>
   )
 }
